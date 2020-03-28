@@ -1,0 +1,20 @@
+#include <conio.h>
+#include<stdio.h>
+ #include<stdlib.h>
+#includ<iostream>
+
+struct estacionamiento
+{
+string carros;
+int count;
+};
+int main(void)
+char myarray=[];
+int count = i;
+scanf(“%s”, Rojo, Gris, Azul, Amarillo, Verde);
+for (var i = 0; i < myarray[]; i++) {
+  printf("El numero de carros es: %d" , i);
+  printf("%s" myarray[i]);
+}
+return(0);
+}
